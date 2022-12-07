@@ -81,7 +81,7 @@
             ?>
             <div class="php-encryption-error-msg-content">
                 <div class="php-encryption-error-title">
-                    <?= $title ? $title : __CLASS__ . ' Hatası:' ?>
+                    <?= $title ? $title : __CLASS__ . ' Error:' ?>
                 </div>
                 <div class="php-encryption-error-msg"><?= $errorMsg ?></div>
             </div>
