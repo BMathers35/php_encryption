@@ -1,5 +1,5 @@
 # php_encryption
-It allows you to encrypt your texts and then decrypt the encrypted data. 
+It allows you to encrypt your texts and then decrypt the encrypted data. **In order to use this class, you must have openssl extension on your PHP server.**
 
 For some methods you can use, visit: https://www.php.net/manual/en/function.openssl-get-cipher-methods.php
 
