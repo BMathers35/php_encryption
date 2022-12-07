@@ -1,0 +1,19 @@
+{
+    "name": "bmath/php_encryption",
+    "description": "It allows you to encrypt your texts and then decrypt the encrypted data.",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Bmath\\PhpEncryption\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baha Şener",
+            "email": "34012215+BMathers35@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
